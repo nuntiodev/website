@@ -4,7 +4,7 @@
    data-name="Lag 1"
    viewBox="0 0 2000 1000"
    version="1.1"
-   sodipodi:docname="softcorp_cover.svg"
+   sodipodi:docname="cover_white.svg"
    inkscape:version="1.1.2 (b8e25be8, 2022-02-05)"
    inkscape:export-filename="/Users/oscarorellana/Desktop/softcorp/website/softcorp/cover_white/softcorp_cover.png"
    inkscape:export-xdpi="1135"
@@ -23,15 +23,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="true"
      showgrid="false"
-     inkscape:zoom="0.18018284"
-     inkscape:cx="835.26267"
-     inkscape:cy="1295.9059"
+     inkscape:zoom="0.17416093"
+     inkscape:cx="852.65966"
+     inkscape:cy="1449.8085"
      inkscape:window-width="1302"
      inkscape:window-height="1051"
      inkscape:window-x="0"
      inkscape:window-y="38"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g1705" />
+     inkscape:current-layer="Lag_1" />
   <defs
      id="defs10">
     <style
@@ -151,14 +151,16 @@
      class="cls-2"
      transform="scale(0.96436508,1.0369517)"
      id="text12"
-     x="817.26544"
-     y="541.06262"
-     style="font-size:192px;stroke-width:0.504429">Softcorp</text>
+     x="729.13489"
+     y="558.77094"
+     style="font-size:192px;stroke-width:0.504429"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Poppins;-inkscape-font-specification:'Poppins Semi-Bold'"
+       id="tspan1438">Softcorp</tspan></text>
   <g
      class="cls-3"
      clip-path="url(#clip-path)"
      id="g18"
-     transform="matrix(0.52306853,0,0,0.52306853,463.28004,212.03311)">
+     transform="matrix(0.52306853,0,0,0.52306853,371.41099,223.51674)">
     <g
        class="cls-4"
        clip-path="url(#clip-path-2)"
